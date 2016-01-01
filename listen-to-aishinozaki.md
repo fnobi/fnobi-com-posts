@@ -1,5 +1,4 @@
 ---
-layout: post
 title: LISTEN TO AI SHINOZAKI
 external_link: http://listen.aishinozaki.jp/
 ---

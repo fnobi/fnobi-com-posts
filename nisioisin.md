@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 西尾維新公式サイト
 external_link: http://ni.siois.in/
 ---

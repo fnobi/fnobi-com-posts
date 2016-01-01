@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 有馬記念でさがせ！
 ---
 
